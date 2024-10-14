@@ -1,4 +1,4 @@
-  import lzma
+import lzma
 import zlib
 import codecs
 import base64
